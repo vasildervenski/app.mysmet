@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "984797438430",
+    "firebase_url": "https://mydriverbeta.firebaseio.com",
+    "project_id": "mydriverbeta",
+    "storage_bucket": "mydriverbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984797438430:android:058325819ec786cd4d7d4f",
+        "android_client_info": {
+          "package_name": "com.devatrans.mydriverbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984797438430-44bost43ebc3q79hdctjkn7uhodsa77i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuBWWcsZqC0ucd8KYPiHQckecvXf5Bdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984797438430-44bost43ebc3q79hdctjkn7uhodsa77i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984797438430:android:6bf56efc66742d054d7d4f",
+        "android_client_info": {
+          "package_name": "com.devatrans.mysmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984797438430-44bost43ebc3q79hdctjkn7uhodsa77i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuBWWcsZqC0ucd8KYPiHQckecvXf5Bdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984797438430-44bost43ebc3q79hdctjkn7uhodsa77i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984797438430:android:e281d433138bdde84d7d4f",
+        "android_client_info": {
+          "package_name": "com.example.mydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984797438430-44bost43ebc3q79hdctjkn7uhodsa77i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuBWWcsZqC0ucd8KYPiHQckecvXf5Bdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984797438430-44bost43ebc3q79hdctjkn7uhodsa77i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

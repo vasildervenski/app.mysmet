@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySmet</string>
+
+    <string name="pref_file">com.devatrans.mysmet.preference_file</string>
+    <string name="pref_login_status">com.devatrans.mysmet.preference_login_status</string>
+    <string name="pref_user_name">com.devatrans.mysmet.preference_user_name</string>
+    <string name="pref_substitute_step">com.devatrans.mysmet.pref_substitute_step</string>
+    <string name="pref_user_id">com.devatrans.mysmet.preference_user_id</string>
+    <string name="pref_fcm_token">com.devatrans.mysmet.preference_fcm_token</string>
+
+
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">Fcm Default Channel</string>
+</resources>

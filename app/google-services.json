@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "745786045200",
+    "firebase_url": "https://mysmet-cb2ad.firebaseio.com",
+    "project_id": "mysmet-cb2ad",
+    "storage_bucket": "mysmet-cb2ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745786045200:android:ec74b4d2d151c032616b95",
+        "android_client_info": {
+          "package_name": "com.devatrans.mydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745786045200-579uk5siui1slnapeqkkb6po12f0pp7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAEO_qF7ZIU7BrHi2bRnT4w5KcSU4pwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745786045200-579uk5siui1slnapeqkkb6po12f0pp7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745786045200:android:4b2fc32b61bbda01616b95",
+        "android_client_info": {
+          "package_name": "com.devatrans.mysmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745786045200-579uk5siui1slnapeqkkb6po12f0pp7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAEO_qF7ZIU7BrHi2bRnT4w5KcSU4pwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745786045200-579uk5siui1slnapeqkkb6po12f0pp7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
